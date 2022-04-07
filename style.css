@@ -1,0 +1,24 @@
+/*mobile screen*/
+@media (max-width: 320px){
+    html{
+        background-color: yellow;
+    }
+}
+
+/*tablet screen*/
+@media (min-width: 321px) and (max-width: 1023px) { 
+    html{
+        background-color: blue;
+    }
+}
+
+/*desktop screen*/
+@media (min-width: 1024px){
+    html{
+        background-color: red;
+    }
+}
+
+
+
+
